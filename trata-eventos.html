@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trata Eventos</title>
+</head>
+<body>
+
+    <script src="js/debug.js"></script> 
+    <script src="js/hide.js"></script> 
+    Hello
+    <!--Vai definir o Display como none e escrever no DebugLog "hide button 1"-->
+    <button onclick="hide(this,true); debug('hide button 1');">Hide1</button> 
+    <!--Vai definir a visibilidade como Hidden e escrever no DebugLog "hide button 2"-->
+    <button onclick="hide(this, undefined); debug('hide button 2');">Hide2</button> World
+</body>
+</html>
