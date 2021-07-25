@@ -2,7 +2,7 @@
 
 ###### Os códigos abaixo foram tirados do Livro "O guia definitivo de javascript" e todos os direitos pertencem a ele.
 
-## Partes de códigos interessantes:
+## Partes de códigos interessantes: 🤓
 
 1. Se você deseja fazer itens sumirem da tela, eu recomendo esse código:
 
